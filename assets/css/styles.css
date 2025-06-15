@@ -1,0 +1,23 @@
+body {
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+  }
+  body.fade-in {
+    opacity: 1;
+  }
+.text-light-blue {
+  color: #99B9FF !important;
+}
+  .btn-light-blue {
+  background-color: #6180c1 !important;
+  color: white !important;
+}
+
+.btn-light-blue:hover {
+  background-color: #4a70c2 !important;
+}
+
+.bg-light-blue {
+  background-color: #5478c7 !important;
+  color: white !important;
+}
